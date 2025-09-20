@@ -1,3 +1,0 @@
-- Tôi thấy Git rất hữu ích cho việc quản lý phiên bản.
-- Git giúp theo dõi thay đổi và hoàn tác dễ dàng.
-- Làm việc nhóm với remote repository bằng Git rất tiện.
