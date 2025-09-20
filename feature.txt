@@ -1,0 +1,7 @@
+Tên tính năng: Thêm chức năng báo cáo tiến độ học tập
+Mô tả:
+- Ghi lại thời gian học mỗi ngày
+- Cho phép xuất ra file CSV
+- Hiển thị biểu đồ tiến độ hàng tuần
+- Có thể đánh dấu nhiệm vụ đã hoàn thành
+- Cho phép lọc theo loại (Git, Lập trình, Ôn tập)
