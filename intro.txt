@@ -1,4 +1,5 @@
-Hello, this is <Dương Lý Cử>
+Hello, this is Dương Lý Cử
+Xin chào, Tôi là Dương Lý Cử
 Tôi tên là Dương Lý Cử, sinh viên năm 4 ngành Công nghệ thông tin.
 Tôi thích tìm hiểu công nghệ mới và áp dụng vào thực tế.
 Hiện tại tôi đang học các môn về Git và Quản lý phần mềm.
@@ -20,3 +21,5 @@ Kế hoạch học tập:
 - Học thêm về nhánh và merge
 - Thực hành quản lý xung đột
 - Chuẩn bị báo cáo cuối kỳ
+
+Conflict resolved on 20/09/2025
